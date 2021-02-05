@@ -13,7 +13,7 @@ img2 = cv2.imread('Photos\l1demo.jpg',1)
 
 # cv2.imshow('AND operator',bit_and)
 
-#------------OR operator-------
+#------------OR operator--------
 
 # bit_or = cv2.bitwise_or(img1,img2,mask=None)
 
