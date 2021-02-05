@@ -4,6 +4,7 @@ img1 = cv2.imread('Photos\demo.jpg',1)
 img2 = cv2.imread('Photos\l1demo.jpg',1)
 
 # added_image = cv2.add(img1,img2)
+# subtracting images
 
 # cv2.imshow("Added images",added_image)
 
